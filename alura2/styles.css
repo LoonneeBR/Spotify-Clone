@@ -22,7 +22,7 @@ body{
 }
 
 .logo{
-    background: #121212;
+    background-color: rgb(12, 12, 12);
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
