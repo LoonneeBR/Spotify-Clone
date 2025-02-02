@@ -1,4 +1,4 @@
 Clone do Spotify - Imersão Front-End Alura
 
 
-Em desenvolvimento...
+Em desenvolvimento... 3/5
