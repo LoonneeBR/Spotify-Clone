@@ -1,4 +1,5 @@
 Clone do Spotify - Imersão Front-End Alura
 
+Este projeto, desenvolvido durante a imersão Front-End Alura, reproduzi a interface principal do Spotify, permitindo a busca por artistas.
 
-Em desenvolvimento... 3/5
+Tecnologias: HTML, CSS, JavaScript.
